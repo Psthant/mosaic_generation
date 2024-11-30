@@ -1,7 +1,7 @@
 import cv2
 from mosaic_generator import Resource, Generator, load_resource
 
-resources = Resource(src='database')
+resources = Resource(src='database-cats')
 # or
 # resources = load_resource('file/path/')
 
